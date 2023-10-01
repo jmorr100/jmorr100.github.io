@@ -1,0 +1,51 @@
+ <!DOCTYPE html>
+ <html>
+   <head>
+     <title>Jason's third webpage!</title>
+   </head>
+   <body>
+     <h1>My third webpage!</h1>
+    <p>The process to build a web page is easier than I had anticipated. However, I find it difficult to find errors when I make them. I will need to:</p>
+     <ol>
+       <li>work a little slower</li>
+       <li>pause and proofread often</li>
+       <li>increase the text size</li>
+     </ol>
+     <h4>About Me...</h4>
+    <p>I'm a senior at MSU Denver working on a degree in Biology with a minor in GIS. This semester I am taking the following classes:</p>
+     <ul>
+       <li>Genetics</li>
+       <li>Conservation Biology</li>
+       <li>Web Mapping</li>
+       <li>Cartography</li>
+     </ul>
+    <h2>Class Information Table</h2>
+    <table>
+     <tr>
+      <th>Course Name</th>
+      <th>Professor Name</th>
+      <th>Location</th>
+     </tr>
+     <tr>
+      <td>Genetics</td>
+      <td>Dr.Liu</td>
+      <td>Science 2093</td>
+     </tr>
+     <tr>
+      <td>Conservation Biology</td>
+      <td>Dr. Carello</td>
+      <td>Science 3008</td>
+     </tr>
+     <tr>
+      <td>Web Mapping</td>
+      <td>Dr. Parr</td>
+      <td>Online</td>
+     </tr>
+     <tr>
+      <td>Cartography</td>
+      <td>Dr. Parr</td>
+      <td>Online</td>
+     </tr>
+    </table>
+   </body>
+ </html>
